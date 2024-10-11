@@ -2,7 +2,7 @@ import styles from "./ProjectStyles.module.css";
 import trendy from "../../assets/trendy.png";
 import ProjectCard from "../../common/ProjectCard.jsx"
 import mobizil from "../../assets/nobizil.png"
-import workWave from "../../assets/Workwave.png"
+import workWave from "../../assets/WorkWave.png"
 import secureCrypt from "../../assets/securecrypt.png"
 function Projects() {
   return (
