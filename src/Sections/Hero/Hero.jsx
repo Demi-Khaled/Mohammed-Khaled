@@ -19,15 +19,15 @@ function Hero() {
           </h1>
           <h2>Software Engineer</h2>
           <span>
-            <a href="#" target="_blank">
+            <a href="https://x.com/AppLol398659" target="_blank">
               <img src={xIcon} alt=""/>
             </a>
           
-            <a href="#" target="_blank">
+            <a href="https://www.linkedin.com/in/mohammed-khaled-amine-ali-24817a25a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
               <img src={linkedInIcon} alt="" />
             </a>
           
-            <a href="#" target="_blank">
+            <a href="https://github.com/Demi-Khaled" target="_blank">
               <img src={gitHubIcon} alt="" />
             </a>
           </span>
