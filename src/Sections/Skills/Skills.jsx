@@ -24,12 +24,14 @@ function Skills() {
         <SkillList src={checkMarkIcon} skill="Material UI" />
       </div>
       <hr />
-      <div className={styles.skillList}>
-        
-      <SkillList src={checkMarkIcon} skill="Node JS" />
+     <div className={styles.skillList}>
+        <SkillList src={checkMarkIcon} skill="Node JS" />
         <SkillList src={checkMarkIcon} skill="MySQL" />
+     </div>
+      <hr />
+      <div className={styles.skillList}>
+      <SkillList src={checkMarkIcon} skill="Vercel" />
         <SkillList src={checkMarkIcon} skill="Linux" />
-
         <SkillList src={checkMarkIcon} skill="Git" />
         <SkillList src={checkMarkIcon} skill="GitHub" />
         <SkillList src={checkMarkIcon} skill="Visual Studio" />
