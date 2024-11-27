@@ -3,7 +3,7 @@ import heroImg from "../../assets/profile.jpg";
 import xIcon from "../../assets/twitter-dark.svg";
 import linkedInIcon from "../../assets/linkedin-dark.svg";
 import gitHubIcon from "../../assets/github-dark.svg";
-import cv from "../../assets/cv.pdf";
+import cv from "../../assets/MOHAMMED-KHALED-CV.pdf";
 function Hero() {
   return (
     <>
